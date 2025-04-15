@@ -22,9 +22,10 @@
 
 喝杯茶休息一下
 
-![awa](https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667)
-
-<img src="https://github.com/user-attachments/assets/66d6d8a2-4533-47e2-95a0-ad4d7033afdc" width="100">
+<div style="display: flex; align-items: center;">
+    <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" style="margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/66d6d8a2-4533-47e2-95a0-ad4d7033afdc" width="100">
+</div>
 
 
 ![AWA](https://camo.githubusercontent.com/9eb4841ff6eaa3c84de2e86c7de6635eec272546e8a1aeb661189f1523004aef/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f636f64656163672f636f64656163672f6173736574732f69636f6e2e706e67)
