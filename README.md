@@ -19,7 +19,8 @@
 ## 战力榜 (≧∇≦)/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowBall-Bqiu)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowBall-Bqiu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-喝杯茶休息一下 ![awa](https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667)
+喝杯茶休息一下
+![awa](https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667)
 ![AWA](https://camo.githubusercontent.com/9eb4841ff6eaa3c84de2e86c7de6635eec272546e8a1aeb661189f1523004aef/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f636f64656163672f636f64656163672f6173736574732f69636f6e2e706e67)
 
 ![](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
