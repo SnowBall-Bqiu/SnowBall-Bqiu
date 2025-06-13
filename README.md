@@ -62,3 +62,6 @@
 [![](https://img.shields.io/badge/node.js-v20.16.0-00acd7?logo=node.js&logoColor=00acd7)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Python-3.11-326c9c?logo=Python&logoColor=326c9c)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+
+
+![雪球Bqiu 计数器](https://count.getloli.com/@:SnowBall-Bqiu?theme=capoo-2)
