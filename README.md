@@ -2,7 +2,7 @@
 ![paperwall_15](https://pupu.kqqq.eu.org/i/6836f3a760fab_channels4_banner.jpg)
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/93788123-588d-45b3-a9ea-bad3ac5501c0" width="200">
+  <img src="https://img.cdn1.vip/i/69196d19b51e4_1763274009.png" width="200">
   <br>
   <strong>
     早睡早起身体好！看看你的commit时间，是不是也该调整一下作息啦？
