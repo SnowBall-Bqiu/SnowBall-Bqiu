@@ -1,8 +1,9 @@
 <div align="center">
 <picture align="center">
-  <img src="https://img.cdn1.vip/i/692ad00378c26_1764413443.gif" width="1000">
+  <img src="https://github.com/user-attachments/assets/eadbbb56-91c3-4025-bdde-3c1b9be28a3e" width="1000">
 </picture>
 </div>
+
 <p align="center">
 	<picture align="center">
   <img src="https://img.cdn1.vip/i/69196d8fd248a_1763274127.gif" width="200">
