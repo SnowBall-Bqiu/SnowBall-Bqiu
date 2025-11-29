@@ -1,6 +1,8 @@
-
-![paperwall_15](https://pupu.kqqq.eu.org/i/6836f3a760fab_channels4_banner.jpg)
----
+<div align="center">
+<picture align="center">
+  <img src="https://img.cdn1.vip/i/692ad00378c26_1764413443.gif" width="1000">
+</picture>
+</div>
 <p align="center">
 	<picture align="center">
   <img src="https://img.cdn1.vip/i/69196d8fd248a_1763274127.gif" width="200">
